@@ -1,0 +1,6 @@
+[alias]
+    cleanup = "!f() { git checkout master && git pull --prune --all && git rm-old-branches && git checkout - ; }; f"
+    rm-old-branches = "!f() { git branch --merged | egrep -v \"(^\\*|origin/master)\" | xargs git branch -d; }; f"
+
+[core]
+	editor = /usr/bin/vim

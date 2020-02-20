@@ -1,0 +1,4 @@
+// SublimeLinter Settings - User
+{
+    "statusbar.messages_template": "{linter}: {code} {message}",
+}
