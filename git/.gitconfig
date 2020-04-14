@@ -4,3 +4,7 @@
 
 [core]
 	editor = /usr/bin/vim
+
+[user]
+    name = kfb
+    email = kfb@fastmail.com
