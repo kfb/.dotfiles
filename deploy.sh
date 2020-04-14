@@ -9,6 +9,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 # Install brew packages
 brew install direnv
 brew install git
+brew install git-gui
 brew install heroku
 brew install hub
 brew install pre-commit
