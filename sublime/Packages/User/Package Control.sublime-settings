@@ -6,11 +6,15 @@
 	"installed_packages":
 	[
 		"Package Control",
+		"Pretty JSON",
+		"Rust Enhanced",
+		"Sass",
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-contrib-mypy",
 		"SublimeLinter-flake8",
 		"SublimeLinter-pydocstyle",
-		"Theme - Afterglow"
+		"Theme - Afterglow",
+		"TOML"
 	]
 }

@@ -24,7 +24,7 @@ export LANG=en_GB.UTF-8
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 alias ls='ls -lahG'
-alias gcl='git cleanup'
+alias fu='git commit --fixup'
 
 # Get rid of autocd
 unsetopt AUTO_CD

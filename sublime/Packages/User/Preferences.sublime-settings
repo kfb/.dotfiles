@@ -20,6 +20,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Rust",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
