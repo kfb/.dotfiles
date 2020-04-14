@@ -34,6 +34,3 @@ eval "$(direnv hook zsh)"
 
 # pyenv
 eval "$(pyenv init -)"
-
-# Enable the broot wrapper
-source $HOME/Library/Preferences/org.dystroy.broot/launcher/bash/br
